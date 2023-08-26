@@ -1,0 +1,9 @@
+* trivial-gamekit
+
+Simple framework for making 2D games
+
+|---------+-----------------------------------------------------|
+| source  | git:https://github.com/borodust/trivial-gamekit.git |
+| commit  | 2555ced                                             |
+| systems | trivial-gamekit                                     |
+|---------+-----------------------------------------------------|
