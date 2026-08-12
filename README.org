@@ -7,4 +7,4 @@ Simple framework for making 2D games
 | commit  | 541ad83                                             |
 | systems | trivial-gamekit                                     |
 |---------+-----------------------------------------------------|
- 
+  
